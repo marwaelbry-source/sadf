@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://strong-cuchufli-1b9678.netlify.app/sitemap.xml
